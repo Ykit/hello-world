@@ -20,3 +20,7 @@ Testing for Hipchar
 03/03/2016
 
 *************************
+Reinstall git on laptop after reseting laptop
+23/06/2016
+
+*************************
